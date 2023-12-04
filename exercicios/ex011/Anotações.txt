@@ -1,0 +1,14 @@
+Tags
+
+<picture>
+<img>
+<audio>
+<source>
+
+
+PARÂMETROS
+
+<source media="(max-width: 750px)" srcset="imagens/foto-p.png" type="image/png">
+<img src="imagens/foto-g.png" alt="Imagem flexível">
+<audio preload="metadata" autoplay controls loop>
+<source src="midia/guanacast-33.mp3" type="audio/mpeg">

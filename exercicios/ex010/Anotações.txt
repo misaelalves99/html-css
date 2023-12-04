@@ -1,0 +1,16 @@
+Tags
+
+<a> // Hyperlink - URL
+
+PARÂMETROS
+
+href="https://gustavoguanabara.github.io/"
+target="_blank"
+target="_self"
+rel="external"
+rel="next"
+rel="prev"
+rel="nofollow"
+download="meulivro.pdf" type="application/pdf"
+download="meulivro.zip" type="application/zip"
+

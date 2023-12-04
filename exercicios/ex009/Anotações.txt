@@ -1,0 +1,20 @@
+Tags
+
+<li> // Itens Lists
+<ol> // Order Lists
+<ul> // Unordered Lists
+<dl>
+<dt>
+<dd>
+
+PARÂMETROS
+
+<ol type="1"> // Order List - Números
+<ol type="A"> // Order List - Letras Maiúsculas
+<ol type="a"> // Order List - Letras Minúsculas
+<ol type="I"> // Order List - Algarismos Romanos Maiúsculas
+<ol type="i"> // Order List - Algarismos Romanos Minúsculas
+
+<ul type="disc"> 
+<ul type="circle">
+<ul type="square">
